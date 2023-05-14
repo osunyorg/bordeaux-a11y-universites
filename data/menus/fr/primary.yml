@@ -9,12 +9,12 @@ items:
   target: "/annuaire/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Parties prenantes
   target: "/parties-prenantes/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 - title: À propos
