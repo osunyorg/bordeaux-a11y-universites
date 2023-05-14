@@ -4,6 +4,7 @@ enableRobotsTXT: true
 removePathAccents: true
 
 params:
+  plausible: a11yuniversites.org
   breadcrumb:
     position: after-hero
   summary:
