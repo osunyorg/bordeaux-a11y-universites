@@ -5,4 +5,8 @@ items:
   target: "/ressources/"
   kind: page
   children: []
+- title: Annuaire
+  target: "/annuaire/"
+  kind: page
+  children: []
 
