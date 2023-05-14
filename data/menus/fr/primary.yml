@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Ressources
+  target: "/ressources/"
+  kind: page
+  children: []
 
