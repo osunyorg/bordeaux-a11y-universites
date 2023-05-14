@@ -13,7 +13,7 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Partenaires
+- title: Parties prenantes
   target: "/parties-prenantes/"
   kind: page
   children: []
