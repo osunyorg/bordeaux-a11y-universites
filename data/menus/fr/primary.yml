@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Ressources
-  target: "/ressources/"
-  kind: page
+  target: "/actualites/ressources/"
+  kind: category
   children: []
 - title: Annuaire
   target: "/annuaire/"
