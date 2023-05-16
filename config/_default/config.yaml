@@ -15,3 +15,6 @@ params:
   persons:
     index:
       layout: grid
+  posts:
+    index:
+      show_categories: true
