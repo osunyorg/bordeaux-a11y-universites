@@ -16,5 +16,6 @@ params:
     index:
       layout: grid
   posts:
+    default_image: true
     index:
       show_categories: true
