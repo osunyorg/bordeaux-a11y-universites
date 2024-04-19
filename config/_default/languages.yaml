@@ -12,7 +12,9 @@ fr:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /parties-prenantes/:slug/
+    organizations_categories: /parties-prenantes/:slug/
     persons: /annuaire/:slug/
+    persons_categories: /annuaire/:slug/
     authors: /annuaire/:slug/actualites/
   taxonomies:
     administrator: administrators
@@ -20,6 +22,8 @@ fr:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
