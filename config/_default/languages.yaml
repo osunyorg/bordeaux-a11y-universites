@@ -12,9 +12,9 @@ fr:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /parties-prenantes/:slug/
-    organizations_categories: /parties-prenantes/:slug/
+    organizations_categories: /parties-prenantes/categories/:slug/
     persons: /annuaire/:slug/
-    persons_categories: /annuaire/:slug/
+    persons_categories: /annuaire/categories/:slug/
     authors: /annuaire/:slug/actualites/
   taxonomies:
     administrator: administrators
