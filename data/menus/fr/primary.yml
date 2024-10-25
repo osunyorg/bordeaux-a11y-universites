@@ -5,6 +5,10 @@ items:
   target: "/actualites/ressources/"
   kind: category
   children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
 - title: Annuaire
   target: "/annuaire/"
   kind: page
@@ -19,10 +23,6 @@ items:
   children: []
 - title: À propos
   target: "/a-propos/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/actualites/"
   kind: page
   children: []
 
