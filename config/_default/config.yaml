@@ -19,4 +19,10 @@ params:
     default_image: true
     index:
       options:
+        author: true
         categories: true
+        date: true
+        image: true
+        reading_time: true
+        summary: true
+        subtitle: true
