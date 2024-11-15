@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Ressources
-  target: "/actualites/ressources/"
-  kind: category
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
