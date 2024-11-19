@@ -17,7 +17,6 @@ fr:
     organizations_categories: /parties-prenantes/categories/:slug/
     persons: /annuaire/:slug/
     persons_categories: /annuaire/categories/:slug/
-    authors: /annuaire/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
