@@ -13,3 +13,72 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/actualites/metier/index.html"
+to = "/actualites/metiers/"
+
+[[redirects]]
+from = "/actualites/metier/design/index.html"
+to = "/actualites/metiers/design/"
+
+[[redirects]]
+from = "/actualites/expertise/experte/index.html"
+to = "/actualites/expertises/experte/"
+
+[[redirects]]
+from = "/parties-prenantes/iut-mmi/index.html"
+to = "/parties-prenantes/metiers-du-multimedia-et-de-l-internet/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/annuaire/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/expertise/index.html"
+to = "/actualites/expertises/"
+
+[[redirects]]
+from = "/partenaires/index.html"
+to = "/parties-prenantes/"
+
+[[redirects]]
+from = "/actualites/bureautique/index.html"
+to = "/actualites/domaines/bureautique/"
+
+[[redirects]]
+from = "/actualites/domaine/audiovisuel/index.html"
+to = "/actualites/domaines/audiovisuel/"
+
+[[redirects]]
+from = "/actualites/expertise/debutante/index.html"
+to = "/actualites/expertises/debutante/"
+
+[[redirects]]
+from = "/actualites/metier/dev/index.html"
+to = "/actualites/metiers/dev/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/parties-prenantes/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/annuaire/"
+
+[[redirects]]
+from = "/actualites/domaine/index.html"
+to = "/actualites/domaines/"
+
+[[redirects]]
+from = "/actualites/2024-10-25-point-legal-2024/index.html"
+to = "/actualites/2024-10-25-point-legal-sur-l-accessibilite-en-2024/"
+
+[[redirects]]
+from = "/actualites/metier/contribution/index.html"
+to = "/actualites/metiers/contribution/"
+
+[[redirects]]
+from = "/actualites/domaine/bureautique/index.html"
+to = "/actualites/domaines/bureautique/"
+
